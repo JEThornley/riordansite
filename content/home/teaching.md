@@ -40,7 +40,7 @@ height = "60vh"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "watson.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "COMM420/watson.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.55  # Darken the image. Value in range 0-1.
 
   cta_label = "Course Materials"
