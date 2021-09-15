@@ -35,7 +35,7 @@ height = "60vh"
 #  cta_icon = "graduation-cap"
 
 [[item]]
-  title = "ZCOMM 420: Financial Technology and Innovation"
+  title = "COMM 420: Financial Technology and Innovation"
   content = "Every part of the financial value chain is being “disrupted” by technology-based innovators. We study how finance how finance has changed - the good and the bad- and what the future may bring."
   align = "right"
 
